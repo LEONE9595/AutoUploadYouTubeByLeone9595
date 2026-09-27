@@ -1,9 +1,9 @@
 =====================================================================
           🚀 AutoUpload YouTube v1.0.1.Beta - LEONE9595 🚀
 =====================================================================
-Sito Web          : https://leone9595.altervista.org/
-Canale YouTube    : https://www.youtube.com/user/LEONE9595
-Credits           : Fatto Da Leone9595 Con il  ❤️
+Sito Web         : https://leone9595.altervista.org/
+Canale YouTube   : https://www.youtube.com/user/LEONE9595
+Credits          : Fatto Da Leone9595 Con il  ❤️
 =====================================================================
 
 Benvenuto! Questo pacchetto ti permette di caricare e programmare 
