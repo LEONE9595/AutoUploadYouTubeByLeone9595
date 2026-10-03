@@ -1,5 +1,5 @@
 =====================================================================
-          🚀 AutoUpload YouTube v1.0.1.Beta - LEONE9595 🚀
+          🚀 AutoUpload YouTube v1.0.2.Beta - LEONE9595 🚀
 =====================================================================
 Sito Web         : https://leone9595.altervista.org/
 Canale YouTube   : https://www.youtube.com/user/LEONE9595
